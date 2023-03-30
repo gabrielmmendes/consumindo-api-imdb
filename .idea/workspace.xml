@@ -4,12 +4,109 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1db4ad0e-5478-497c-b00d-f7491879f133" name="Changes" comment="exemplo de requisição http em api">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/json.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/json-20230227.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/application.properties" afterDir="false" />
+    <list default="true" id="1db4ad0e-5478-497c-b00d-f7491879f133" name="Changes" comment="correção">
+      <change afterPath="$PROJECT_DIR$/src/PosterWithMedal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/input/bronze-medal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/input/gold-medal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/input/silver-medal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/65.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/a-good-person.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/a-man-called-otto.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/aftersun.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/air.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/all-quiet-on-the-western-front.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/ant-man-and-the-wasp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/avatar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/babylon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/black-adam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/black-panther" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/boston-strangler.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/bullet-train.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/champions.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/children-of-the-corn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/chor-nikal-ke-bhaga.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/cocaine-bear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/creed-iii.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/creed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/don't-worry-darling.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/dragged-across-concrete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/dungeons-&amp;-dragons" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/elvis.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/everything-everywhere-all-at-once.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/evil-dead-rise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/fall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/glass-onion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/good-will-hunting.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/goodfellas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/guillermo-del-toro's-pinocchio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/harry-potter-and-the-sorcerer's-stone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/i-see-you.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/infinity-pool.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/inside.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/interstellar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/jesus-revolution.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/john-wick" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/john-wick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/joy-ride.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/killers-of-the-flower-moon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/knock-at-the-cabin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/living.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/luther" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/m3gan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/missing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/money-shot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/noise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/nope.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/once-upon-a-time-in-hollywood.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/operation-fortune" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/oppenheimer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/pathaan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/pearl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/plane.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/pulp-fiction.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/puss-in-boots" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/renfield.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/riddick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/rrr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/ruby-gillman,-teenage-kraken.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/scream-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/scream-vi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/scream.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/shazam!-fury-of-the-gods.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/shazam!.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/smile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/supercell.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-banshees-of-inisherin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-batman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-dark-knight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-fabelmans.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-flash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-godfather.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-goonies.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-help.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-hunchback-of-notre-dame.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-hunger-games.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-little-mermaid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-magician's-elephant.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-magnificent-seven.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-pope's-exorcist.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-shawshank-redemption.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-super-mario-bros.-movie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-unbearable-weight-of-massive-talent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-whale.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/titanic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/top-gun" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/top-gun.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/triangle-of-sadness.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/tár.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/we-have-a-ghost.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/where-the-crawdads-sing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/winnie-the-pooh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/women-talking.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/you-hurt-my-feelings.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/br.com.gabrielmmendes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/br.com.gabrielmmendes.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +114,22 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -44,29 +155,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Downloaded.Files.Path.Enabled": "true",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Problems",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Gabriel/IdeaProjects/consumindo-api-imdb/src/resources/images/input&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gabriel\IdeaProjects\consumindo-api-imdb\src\resources\images\input" />
+      <recent name="C:\Users\Gabriel\IdeaProjects\consumindo-api-imdb\src\resources\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gabriel\IdeaProjects\consumindo-api-imdb\src\resources\images\input" />
+      <recent name="C:\Users\Gabriel\IdeaProjects\consumindo-api-imdb\src\resources\images" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -91,7 +213,8 @@
       <updated>1679713655657</updated>
       <workItem from="1679713656150" duration="1698000" />
       <workItem from="1679952294992" duration="299000" />
-      <workItem from="1680034457739" duration="954000" />
+      <workItem from="1680034457739" duration="1895000" />
+      <workItem from="1680124209208" duration="13187000" />
     </task>
     <task id="LOCAL-00001" summary="start no projeto">
       <created>1679714634148</created>
@@ -100,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679714634148</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Aula 01: Parse do json com org.json, impressão personalizada dos filmes no console e application.properties">
+      <created>1680036468147</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680036468147</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +239,31 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="27a410cc-61a0-42ac-8c4f-3cddabe542df">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="788f494d-b229-4431-85cf-fe7213e6658f">
           <value>
             <State>
@@ -134,10 +289,16 @@
             </State>
           </value>
         </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
       </map>
     </option>
     <option name="OPEN_GENERIC_TABS">
       <map>
+        <entry key="27a410cc-61a0-42ac-8c4f-3cddabe542df" value="TOOL_WINDOW" />
         <entry key="788f494d-b229-4431-85cf-fe7213e6658f" value="TOOL_WINDOW" />
       </map>
     </option>
@@ -145,6 +306,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="start no projeto" />
-    <option name="LAST_COMMIT_MESSAGE" value="start no projeto" />
+    <MESSAGE value="Aula 01: Parse do json com org.json, impressão personalizada dos filmes no console e application.properties" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula 01: Parse do json com org.json, impressão personalizada dos filmes no console e application.properties" />
   </component>
 </project>

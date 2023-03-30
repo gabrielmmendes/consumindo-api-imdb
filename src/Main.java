@@ -4,6 +4,7 @@ import org.json.JSONObject;
 
 import java.io.IOException;
 import java.net.URI;
+import java.net.URL;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
@@ -11,6 +12,7 @@ import java.net.http.HttpResponse.BodyHandlers;
 
 public class Main {
     public static void main(String[] args) throws IOException, InterruptedException {
+        // TODO: colocar chave em arquivo .properties
         String url = "https://imdb-api.com/en/API/MostPopularMovies/k_o36shslf";
         HttpClient client = HttpClient.newHttpClient();
         HttpRequest request = HttpRequest.newBuilder(URI.create(url)).GET().build();
@@ -23,32 +25,22 @@ public class Main {
 
         for (int i = 0; i < movies.length(); i++) {
             // titulo
-            System.out.println(movies.getJSONObject(i).getString("title"));
+            String title = movies.getJSONObject(i).getString("title");
 
-            // troca rating em notas de 0 a 10 por estrelas de 1 a 5
-            float stars;
+            // nota
+            float imDbRating;
             try {
-                stars = movies.getJSONObject(i).getFloat("imDbRating") / 2;
+                imDbRating = movies.getJSONObject(i).getFloat("imDbRating");
             } catch (JSONException e) {
-                stars = -1;
-            }
-            if (stars == -1) {
-                System.out.print("Sem nota");
-            } else {
-                for (int j = 1; j < stars; j++) {
-                    System.out.print("★");
-                }
-                for (int j = 0; j < 5 - stars; j++) {
-                    System.out.print("☆");
-                }
+                imDbRating = 0;
             }
 
             //poster
-            System.out.println();
-            System.out.println(movies.getJSONObject(i).getString("image"));
-            System.out.println();
+            String imageUrl = movies.getJSONObject(i).getString("image");
+            imageUrl = imageUrl.replace(imageUrl.substring(imageUrl.indexOf(".", 30), imageUrl.lastIndexOf(".jpg")), "");
+
+            var posterWithMedal = new PosterWithMedal();
+            posterWithMedal.putMedalOnPoster(new URL(imageUrl).openStream(), imDbRating, title);
         }
-        
-        // TODO: colocar chave em arquivo .properties
     }
 }
