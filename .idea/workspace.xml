@@ -4,110 +4,118 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1db4ad0e-5478-497c-b00d-f7491879f133" name="Changes" comment="correção">
-      <change afterPath="$PROJECT_DIR$/src/PosterWithMedal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/input/bronze-medal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/input/gold-medal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/input/silver-medal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/65.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/a-good-person.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/a-man-called-otto.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/aftersun.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/air.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/all-quiet-on-the-western-front.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/ant-man-and-the-wasp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/avatar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/babylon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/black-adam.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/black-panther" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/boston-strangler.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/bullet-train.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/champions.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/children-of-the-corn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/chor-nikal-ke-bhaga.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/cocaine-bear.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/creed-iii.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/creed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/don't-worry-darling.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/dragged-across-concrete.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/dungeons-&amp;-dragons" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/elvis.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/everything-everywhere-all-at-once.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/evil-dead-rise.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/fall.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/glass-onion.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/good-will-hunting.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/goodfellas.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/guillermo-del-toro's-pinocchio.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/harry-potter-and-the-sorcerer's-stone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/i-see-you.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/infinity-pool.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/inside.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/interstellar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/jesus-revolution.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/john-wick" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/john-wick.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/joy-ride.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/killers-of-the-flower-moon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/knock-at-the-cabin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/living.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/luther" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/m3gan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/missing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/money-shot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/noise.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/nope.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/once-upon-a-time-in-hollywood.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/operation-fortune" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/oppenheimer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/pathaan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/pearl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/plane.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/pulp-fiction.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/puss-in-boots" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/renfield.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/riddick.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/rrr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/ruby-gillman,-teenage-kraken.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/scream-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/scream-vi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/scream.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/shazam!-fury-of-the-gods.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/shazam!.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/smile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/supercell.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-banshees-of-inisherin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-batman.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-dark-knight.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-fabelmans.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-flash.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-godfather.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-goonies.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-help.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-hunchback-of-notre-dame.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-hunger-games.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-little-mermaid.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-magician's-elephant.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-magnificent-seven.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-menu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-pope's-exorcist.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-shawshank-redemption.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-super-mario-bros.-movie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-unbearable-weight-of-massive-talent.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/the-whale.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/titanic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/top-gun" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/top-gun.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/triangle-of-sadness.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/tár.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/we-have-a-ghost.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/where-the-crawdads-sing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/winnie-the-pooh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/women-talking.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/output/you-hurt-my-feelings.png" afterDir="false" />
+    <list default="true" id="1db4ad0e-5478-497c-b00d-f7491879f133" name="Changes" comment="Aula 03: Refatoração com o uso de interface e organização do código em classes. Nova feature que consome api da Nasa e personaliza as imagens com o nome e data.">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ApplicationProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Content.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GetContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GetImdbApiContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GetNasaApiContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HttpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/imdb/the-dark-knight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/nasa/3D Bennu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/output/nasa/Orion and the Running Man.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PosterWithMedal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PersonalizeImages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/65.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/a-good-person.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/a-man-called-otto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/aftersun.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/air.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/all-quiet-on-the-western-front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/ant-man-and-the-wasp" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/images/output/nasa/Saturn's Hyperion" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/avatar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/babylon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/black-adam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/black-panther" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/boston-strangler.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/bullet-train.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/champions.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/children-of-the-corn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/chor-nikal-ke-bhaga.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/cocaine-bear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/creed-iii.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/creed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/don't-worry-darling.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/dragged-across-concrete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/dungeons-&amp;-dragons" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/elvis.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/everything-everywhere-all-at-once.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/evil-dead-rise.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/fall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/glass-onion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/good-will-hunting.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/goodfellas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/guillermo-del-toro's-pinocchio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/harry-potter-and-the-sorcerer's-stone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/i-see-you.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/infinity-pool.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/inside.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/interstellar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/jesus-revolution.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/john-wick" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/john-wick.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/joy-ride.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/killers-of-the-flower-moon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/knock-at-the-cabin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/living.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/luther" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/m3gan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/missing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/money-shot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/noise.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/nope.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/once-upon-a-time-in-hollywood.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/operation-fortune" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/oppenheimer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/pathaan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/pearl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/plane.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/pulp-fiction.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/puss-in-boots" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/renfield.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/riddick.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/rrr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/ruby-gillman,-teenage-kraken.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/scream-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/scream-vi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/scream.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/shazam!-fury-of-the-gods.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/shazam!.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/supercell.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/the-banshees-of-inisherin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/the-batman.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/the-dark-knight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/the-fabelmans.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/the-flash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/the-godfather.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/images/output/imdb/the-godfather.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/the-goonies.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/the-help.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/the-hunchback-of-notre-dame.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/the-hunger-games.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/the-little-mermaid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/the-magician's-elephant.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/the-magnificent-seven.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/the-menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/the-pope's-exorcist.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/the-shawshank-redemption.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/images/output/imdb/the-shawshank-redemption.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/the-super-mario-bros.-movie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/the-unbearable-weight-of-massive-talent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/the-whale.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/titanic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/top-gun" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/top-gun.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/triangle-of-sadness.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/tár.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/we-have-a-ghost.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/where-the-crawdads-sing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/winnie-the-pooh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/women-talking.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/output/you-hurt-my-feelings.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,13 +124,13 @@
   </component>
   <component name="ChangesViewManager">
     <option name="groupingKeys">
-      <option value="directory" />
       <option value="module" />
     </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -155,31 +163,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Gabriel/IdeaProjects/consumindo-api-imdb/src/resources/images/input&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Gabriel/IdeaProjects/consumindo-api-imdb/src/resources/images/input",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.sourceCode",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Gabriel\IdeaProjects\consumindo-api-imdb\src\resources\images\input" />
       <recent name="C:\Users\Gabriel\IdeaProjects\consumindo-api-imdb\src\resources\images" />
@@ -215,6 +226,9 @@
       <workItem from="1679952294992" duration="299000" />
       <workItem from="1680034457739" duration="1895000" />
       <workItem from="1680124209208" duration="13187000" />
+      <workItem from="1680180830413" duration="63000" />
+      <workItem from="1680210044336" duration="5147000" />
+      <workItem from="1680228497409" duration="5873000" />
     </task>
     <task id="LOCAL-00001" summary="start no projeto">
       <created>1679714634148</created>
@@ -230,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680036468147</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Aula 02: Implementação de classe e metodo que personaliza o poster de um filme colocando uma medalha de acordo com a nota">
+      <created>1680143018063</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680143018063</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -307,6 +328,12 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="start no projeto" />
     <MESSAGE value="Aula 01: Parse do json com org.json, impressão personalizada dos filmes no console e application.properties" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aula 01: Parse do json com org.json, impressão personalizada dos filmes no console e application.properties" />
+    <MESSAGE value="Aula 02: Implementação de classe e metodo que personaliza o poster de um filme colocando uma medalha de acordo com a nota" />
+    <MESSAGE value="Aula 03: Refatoração com o uso de interface e organização do código em classes. Nova feature que consome api da Nasa e personaliza as imagens com o nome e data." />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula 03: Refatoração com o uso de interface e organização do código em classes. Nova feature que consome api da Nasa e personaliza as imagens com o nome e data." />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
